@@ -19,7 +19,7 @@
 <p align="left">
   <a href="mailto:contatofernanda.avanco@gmail.com&body=Ol%C3%A1+Fernanda,+vi+seu+email+no+GitHUb" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#https://www.linkedin.com/in/fernandaavanco/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/fernandaavanco/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="https://wa.me/5567996880963?text=Ol%C3%A1%20Fernanda,%20vi%20seu%20contato%20no%20GitHub" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>

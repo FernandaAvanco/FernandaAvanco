@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: ReactJS, GIT, Bootstrap, Tailwind CSS, Swing
+  💼 Ferramentas: ReactJS, GIT, Bootstrap, Tailwind CSS
 </p>
 
 <p align="left">

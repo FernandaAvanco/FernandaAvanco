@@ -1,28 +1,56 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img 
+  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+  alt="Ilustração de um computador" 
+  width="400px" 
+  align="right"
+/>
 
-<p align="left"> 
-  Olá, meu nome é Fernanda Avanço, sou desenvolvedora full stack e atualmente estou cursando o 6° semeste do curso Engenharia de Software! Trabalho com desenvolvimento há 1 ano e meio e cada dia sou mais apaixonada pela programação!
-</p>
-
-<p align="left">
-  🦄 Linguagens: JavaScript, TypeScript, Java, HTML, CSS
-</p>
-
-<p align="left">
-  💼 Ferramentas: ReactJS, GIT, Bootstrap, Tailwind CSS
-</p>
+# Olá, eu sou a Fernanda Avanço 👋
 
 <p align="left">
-  💌 Entre em contato comigo através das minhas redes sociais ou meu email ⤵️
+  Sou desenvolvedora Full Stack, formada em Engenharia de Software, e trabalho com desenvolvimento há 3 anos.
+  Sou apaixonada por tecnologia, programação e pela criação de soluções que unem funcionalidade, organização e uma boa experiência para o usuário.
 </p>
 
+---
+
+## 🚀 Sobre mim
+
 <p align="left">
-  <a href="mailto:contatofernanda.avanco@gmail.com&body=Ol%C3%A1+Fernanda,+vi+seu+email+no+GitHUb" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  Tenho experiência no desenvolvimento de aplicações web, atuando tanto no front-end quanto no back-end.
+  Gosto de aprender novas tecnologias, resolver problemas e transformar ideias em projetos reais.
+</p>
+
+---
+
+## 🦄 Linguagens
+
+<p align="left">
+  JavaScript • TypeScript • PHP • Node.js
+</p>
+
+---
+
+## 💼 Tecnologias e ferramentas
+
+<p align="left">
+  ReactJS • Next.js • Git • Tailwind CSS
+</p>
+
+---
+
+## 💌 Entre em contato comigo
+
+<p align="left">
+  <a href="mailto:contatofernanda.avanco@gmail.com?subject=Contato%20pelo%20GitHub&body=Ol%C3%A1%20Fernanda,%20vi%20seu%20perfil%20no%20GitHub" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
   <a href="https://www.linkedin.com/in/fernandaavanco/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
   <a href="https://wa.me/5567996880963?text=Ol%C3%A1%20Fernanda,%20vi%20seu%20contato%20no%20GitHub" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="https://www.instagram.com/nands_ls/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
 </p>
